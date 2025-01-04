@@ -7,7 +7,6 @@ body {
     background: linear-gradient(180deg, #529B86 0%, #214037 100%);
     max-width: 100%;
     width: 100%;
-    height: 100vh;
     overflow-x: hidden;
 }
 
